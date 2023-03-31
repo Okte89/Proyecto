@@ -1,2 +1,1 @@
-# Proyecto
-Es para mini-proyectos individuales
+Soy genial, y esto es para avisarte que soy un programador ya. Congrats.
